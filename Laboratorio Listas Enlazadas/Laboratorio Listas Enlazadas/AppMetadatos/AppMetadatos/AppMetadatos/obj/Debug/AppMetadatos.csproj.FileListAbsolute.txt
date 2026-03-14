@@ -1,0 +1,33 @@
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe.config
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.pdb
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.AssemblyReference.cache
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Form1.resources
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Properties.Resources.resources
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.GenerateResource.cache
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.CoreCompileInputs.cache
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.pdb
+C:\Users\mende\OneDrive\Desktop\Programa_III\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe.config
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe.config
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.pdb
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.AssemblyReference.cache
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe.config
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Form1.resources
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Properties.Resources.resources
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.GenerateResource.cache
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.CoreCompileInputs.cache
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe
+C:\Users\Jackeline Monterroso\Downloads\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.pdb
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe.config
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.exe
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\bin\Debug\AppMetadatos.pdb
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe.config
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Form1.resources
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.exe
+C:\Users\ADMIN\Downloads\Laboratorio Listas Enlazadas\Laboratorio Listas Enlazadas\AppMetadatos\AppMetadatos\AppMetadatos\obj\Debug\AppMetadatos.pdb
